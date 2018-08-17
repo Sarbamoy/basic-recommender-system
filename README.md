@@ -9,3 +9,5 @@ Approaches used to find similarity:
 * Euclidean distance score
 * Pearson Correlation Coefficient score
 
+## Output
+![Output](https://github.com/Sarbamoy/basic-recommender-system/blob/master/images/Screenshot%20from%202018-08-17%2013-16-15.png)
